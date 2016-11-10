@@ -1,10 +1,3 @@
-# CODING PROJECT 2
-# GROUP ID-51
-# MEMBERS - DEVESH MASANE(15114023) & KARAN CHANDRA(15114036)
-# TOPIC : Check the given input is prime or not
-# asm file :- cp_2.asm
-# c file :- cp_2.c
-# s file :- cp_2.s
 
 # registers used
 # $t0 stores zero
